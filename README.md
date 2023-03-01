@@ -6,6 +6,6 @@ A simple program in C# that makes a GET request to the endpoint and displays the
 
 `cd age-counting`
 
-`dotnet add package Newtonsoft.Json --version 13.0.2
+`dotnet add package Newtonsoft.Json --version 13.0.2`
 
 `dotnet run`
