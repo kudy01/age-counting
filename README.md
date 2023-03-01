@@ -4,8 +4,8 @@ A simple program in C# that makes a GET request to the endpoint and displays the
 
 ## To run the program
 
-`
-cd age-counting
-dotnet add package Newtonsoft.Json --version 13.0.2             
-dotnet run
-`
+`cd age-counting`
+
+`dotnet add package Newtonsoft.Json --version 13.0.2              `
+
+`dotnet run`
