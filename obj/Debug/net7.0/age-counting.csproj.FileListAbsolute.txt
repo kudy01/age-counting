@@ -1,0 +1,17 @@
+/Users/kudy/Desktop/age-counting/bin/Debug/net7.0/age-counting
+/Users/kudy/Desktop/age-counting/bin/Debug/net7.0/age-counting.deps.json
+/Users/kudy/Desktop/age-counting/bin/Debug/net7.0/age-counting.runtimeconfig.json
+/Users/kudy/Desktop/age-counting/bin/Debug/net7.0/age-counting.dll
+/Users/kudy/Desktop/age-counting/bin/Debug/net7.0/age-counting.pdb
+/Users/kudy/Desktop/age-counting/obj/Debug/net7.0/age-counting.csproj.AssemblyReference.cache
+/Users/kudy/Desktop/age-counting/obj/Debug/net7.0/age-counting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kudy/Desktop/age-counting/obj/Debug/net7.0/age-counting.AssemblyInfoInputs.cache
+/Users/kudy/Desktop/age-counting/obj/Debug/net7.0/age-counting.AssemblyInfo.cs
+/Users/kudy/Desktop/age-counting/obj/Debug/net7.0/age-counting.csproj.CoreCompileInputs.cache
+/Users/kudy/Desktop/age-counting/obj/Debug/net7.0/age-counting.dll
+/Users/kudy/Desktop/age-counting/obj/Debug/net7.0/refint/age-counting.dll
+/Users/kudy/Desktop/age-counting/obj/Debug/net7.0/age-counting.pdb
+/Users/kudy/Desktop/age-counting/obj/Debug/net7.0/age-counting.genruntimeconfig.cache
+/Users/kudy/Desktop/age-counting/obj/Debug/net7.0/ref/age-counting.dll
+/Users/kudy/Desktop/age-counting/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/kudy/Desktop/age-counting/obj/Debug/net7.0/age-counting.csproj.CopyComplete
